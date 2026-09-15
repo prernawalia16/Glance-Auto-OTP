@@ -1,0 +1,9 @@
+{
+  "name": "glance-auto-otp",
+  "description": "Automatic authenticator-app (TOTP) handling for Applied Information Playwright suites. Fills the 2FA screen that appears after username/password so automated scripts run unattended, on appinfoinc.com products only.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Applied Information QA"
+  },
+  "keywords": ["playwright", "otp", "totp", "2fa", "glance", "automation", "qa"]
+}

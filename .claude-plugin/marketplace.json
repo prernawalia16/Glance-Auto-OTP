@@ -1,0 +1,14 @@
+{
+  "name": "appinfo-qa",
+  "owner": {
+    "name": "Applied Information QA"
+  },
+  "plugins": [
+    {
+      "name": "glance-auto-otp",
+      "source": "./plugins/glance-auto-otp",
+      "description": "Fills the Glance/Applied Information 2FA screen automatically in Playwright suites, so automated logins run unattended.",
+      "keywords": ["playwright", "otp", "totp", "2fa", "glance", "automation", "qa"]
+    }
+  ]
+}
